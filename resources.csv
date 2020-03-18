@@ -1,5 +1,4 @@
 word;translation;category
-artikel;artykuł;
 einkauf;zakup;
 kunden;klienci;
 auftrage;zamowienie;
@@ -16,15 +15,15 @@ auslosende ereignisse;losowanie wydarzen;
 erstellt;stworzony;
 minusbuchung;minus rezerwacja;
 automatisierung;automatyka;
-Speichern;zapisz;
-Abbrechen;anuluj;
-Auftragspositinen;Pozycje umowy;
-artikel Positionen;pozycje artykułu;
+speichern;zapisz;
+abbrechen;anuluj;
+auftragspositinen;pozycje umowy;
+artikel positionen;pozycje artykułu;
 enthalt;zawiera;
-Lieferantenzuordung;Przypisanie dostawcy;
+lieferantenzuordung;przypisanie dostawcy;
 lieferanten;dostawcy;
 beginnt;zaczyna się;
-lieferbar;Dostępny pod adresem;
+lieferbar;dostępny pod adresem;
 zahlungen;płatności;
 ausliefern;dostarczyć;
 lieferadresse;adres dostawy;
