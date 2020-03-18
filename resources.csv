@@ -1,5 +1,4 @@
 word;translation;category
-einkauf;zakup;
 kunden;klienci;
 auftrage;zamowienie;
 versand;wysyłka;
@@ -31,3 +30,4 @@ stammdaten;dane głowne;
 ausfuhrungsverzeichnis;wykaz wywozów;
 verzeichnis festlegen;katalog nastawiony;
 foo;bar;
+einkauf;dupa;foobar
